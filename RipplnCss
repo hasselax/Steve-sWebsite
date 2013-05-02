@@ -1,0 +1,22 @@
+* {
+  background-color: orange;
+
+}
+
+h1 {
+  font-size: 60px;
+  font-family: Serif, Cursive;
+}
+p {
+  font-size: 20px;
+  font-family: Serif;
+}
+
+li{
+  color: blue;
+  
+}
+
+a{
+  font-style: none;
+}
